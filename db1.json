@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "name": "Post 1", "image":"đâsdasd", "price":"23123" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
